@@ -1,5 +1,6 @@
 Proyecto:
 Nuestro proyecto es una landing page basada en nuestra solución propuesta llamada “SmartPet” la cual ayuda a buscar paseadores a personas que no tienen tiempo de poder pasear a sus mascotas.
+#
 SmartPet 
 Segmento:
 Nosotros contamos con 2 tipos de público objetivo, por un lado, están los clientes, los cuales hacen uso del servicio de la aplicación y por el otro lado tenemos a los paseadores, los cuales son fundamentales para el funcionamiento del startup.
