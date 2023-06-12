@@ -15,3 +15,4 @@ Jeferson Smith Cabrera Camizan
 #
 Características:
 Las características que ofrece nuestra solución es la implementación de una búsqueda basada en gustos e intereses que comparten tanto clientes como paseadores que deseen interactuar en la aplicación, de este modo estableciendo la confianza y seguridad. 
+
